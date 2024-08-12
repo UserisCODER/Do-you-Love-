@@ -1,0 +1,16 @@
+.background-bullet {
+    /* Adjust the width and height as needed */
+    width: 100px; /* Example width */
+    height: 100px; /* Example height */
+    
+    /* Set the background image */
+    background-image: url('images/black-grey-bullet.png'); /* Path to your image */
+    
+    /* Ensure the image covers the element properly */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    /* Optional: Add padding or margin if needed */
+    padding: 20px; /* Example padding */
+}
