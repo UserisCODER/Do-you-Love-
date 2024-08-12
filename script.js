@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     yesButton.addEventListener('click', () => {
-        responseMessage.textContent = 'Thank you for saying yes! Here are some interesting secrets about your partner: They love surprises, appreciate kindness, and have a deep sense of loyalty.';
+        responseMessage.textContent = 'Thanks dude you are awesome : Your partner  love surprises, appreciate kindness, and have a deep sense of loyalty.';
         responseMessage.style.color = '#4CAF50';
     });
 
