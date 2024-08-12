@@ -68,6 +68,6 @@ footer {
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: purple; /* New background color */
+    background-color: pink; /* New background color */
     transition: background-color 0.5s ease-in-out;
 }
