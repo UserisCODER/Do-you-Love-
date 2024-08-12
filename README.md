@@ -53,7 +53,6 @@ Acknowledgments
 
 Inspired by the universal question that has puzzled humans for centuries.
 
-Changelog
 
 - v1.0.0: Initial release
 
